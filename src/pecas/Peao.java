@@ -6,7 +6,7 @@
 
 package pecas;
 
-import Model.Chess;
+import model.Chess;
 import java.awt.Graphics2D;
 
 

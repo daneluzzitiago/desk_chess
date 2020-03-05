@@ -8,7 +8,7 @@ package pecas;
 
 import java.awt.Graphics2D;
 import java.util.ArrayList;
-import Model.Chess;
+import model.Chess;
 import java.io.Serializable;
 
 /**

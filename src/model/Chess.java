@@ -1,4 +1,4 @@
-package Model;
+package model;
 
 import java.awt.Graphics2D;
 import java.awt.Point;
@@ -12,7 +12,7 @@ import pecas.Peca;
 import pecas.Rainha;
 import pecas.Rei;
 import pecas.Torre;
-import Controller.ChessController;
+import controller.ChessController;
 import java.io.Serializable;
 
 
