@@ -3,16 +3,14 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Controller;
+package controller;
 
 /**
  *
  * @author LG
  */
-public class BadMoveException extends Exception{
-
-    public BadMoveException(String message) {
-        super(message);
-    }
-    
+public class EmptyException extends Exception {
+       public EmptyException (String message){
+           super(message);
+       }
 }

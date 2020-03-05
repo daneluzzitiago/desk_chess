@@ -1,7 +1,7 @@
 package view;
 
-import Controller.ChessController;
-import Model.Chess;
+import controller.ChessController;
+import model.Chess;
 import java.awt.BorderLayout;
 import java.awt.Color;
 import java.awt.Dimension;
